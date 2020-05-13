@@ -1,0 +1,20 @@
+#vehicle_or, #vehicle_cr {
+    display: block;
+    width: 70px;
+    height: 30px;
+    margin: auto;
+    padding: 5px;
+}
+
+#manage-vehicles-trigger-me-or,#manage-vehicles-trigger-me-cr {
+    display: block;
+    visibility: hidden;
+}
+
+#close-button-modal-or, #close-button-modal-cr {
+    display: inline;
+}
+
+#modal-title-or, #modal-title-cr {
+  display: inline;
+}

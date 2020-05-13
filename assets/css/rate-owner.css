@@ -1,0 +1,27 @@
+.rateButton {
+    background-color:   #909497;
+    transition: none;
+    width: 45px;
+    padding: 0;
+    padding-top: 8px;
+
+}
+
+
+.rateButtonChanged {
+    background-color:  #f8c471;
+    transition: none;
+    width: 45px;
+    padding: 0;
+    padding-top: 8px;
+
+}
+
+.rateButton:hover{
+    background-color:   #909497 ;
+}
+
+.rateButtonChanged:hover{
+    background-color:  #f8c471;
+}
+

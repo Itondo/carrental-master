@@ -1,0 +1,15 @@
+#ratingButton {
+    display: block;
+    width: 90%;
+    margin: auto;
+    padding: auto;
+}
+
+.btn-start-usage {
+    display: block;
+    width: 80%;
+    margin: auto;
+    padding: auto;
+    font-size: 13px;
+}
+

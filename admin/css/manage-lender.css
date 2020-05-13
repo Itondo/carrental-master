@@ -1,0 +1,20 @@
+#lender_or, #lender_cr {
+    display: block;
+    width: 100px;
+    height: 40px;
+    margin: auto;
+    padding: 10px;
+}
+
+#lender-trigger-me-or,#lender-trigger-me-cr {
+    display: block;
+    visibility: hidden;
+}
+
+#close-button-modal-or, #close-button-modal-cr {
+    display: inline;
+}
+
+#modal-title-or, #modal-title-cr {
+  display: inline;
+}

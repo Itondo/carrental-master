@@ -1,0 +1,82 @@
+#map-container {
+    padding-top: 3rem;
+    height: 80px;
+    transition: all 1s ease-out;
+    overflow: hidden;
+}
+#btn-view-map {
+    display: block;
+    width: 100%;
+    margin: auto;
+    padding: auto;
+}
+
+#map {
+    display: block;
+    width: 100%;
+    height: 430px;
+    margin: auto;
+    padding: auto;
+    margin-top: 3rem;
+    border: 1px solid black;
+    margin-bottom: 2rem;
+}
+
+#lenderMap {
+    display: block;
+    width: 100%;
+    height: 430px;
+    margin: auto;
+    padding: auto;
+    margin-top: 3rem;
+    border: 1px solid black;
+    margin-bottom: 2rem;
+}
+
+#btn-add-address {
+    display: block;
+    width: 100%;
+    margin: auto;
+    padding: auto;
+}
+
+#map-register {
+    width: 100%;
+    height: 430px;
+    margin: auto;
+    padding: auto;
+    margin-top: 2rem;
+    border: 1px solid black;
+}
+
+#btn-submit {
+    display: block;
+    width: 100%;
+    margin: auto;
+    padding: auto;
+}
+
+
+#infoWindowContainer {
+    width: 400px;
+    overflow-x: hidden;
+    padding-bottom: 3px;
+    padding-top: 5px;
+}
+
+#car_image {
+    width: 80%;
+    height: 150px;
+}
+
+#btn_view_details {
+    display: block;
+    margin: auto;
+    padding: auto;
+}
+
+#vehicle_details {
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 3px;
+}

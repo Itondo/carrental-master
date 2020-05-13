@@ -1,0 +1,15 @@
+#btn-update {
+    display:block;
+    width: 100%;
+    margin: auto;
+    padding: auto;
+    font-size: 17px;
+}
+
+
+#btn-cancel, #btn-save  {
+    width: 20%;
+    margin: auto;
+    padding: auto;
+    font-size: 17px;
+}

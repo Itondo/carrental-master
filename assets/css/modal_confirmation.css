@@ -1,0 +1,61 @@
+#modal_confirmation_body {
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 15px;
+}
+
+#modal_confirmation_body > table > th {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#confirmation_table_header {
+    text-align: center;
+}
+
+#btn_off_reminder {
+    background-color: #e74c3c;
+    color: white;
+}
+
+#btn_close_confirmation {
+    font-size: 14px;
+    padding: 5px 60px 5px 60px;
+
+}
+
+.confirm_rent_confirm {
+    background-color: #5cb85c;
+    
+}
+.confirm_rent_confirm:hover {
+    background-color: #5cb85c;
+}
+
+.confirm_rent_cancel {
+    background-color: #d9534f;
+}
+
+.confirm_rent_cancel:hover {
+    background-color: #d9534f;
+}
+
+.confirm_rent_confirm > span.glyphicon, .confirm_rent_cancel > span.glyphicon {
+    font-size: 14px;
+}
+
+.confirm_rent_confirm, .confirm_rent_cancel {
+    padding: 3px 15px;
+    /* width: 6px;
+    padding: 2px 10px 2px 10px;
+    margin-left: -3px;
+    font-size: 5; */
+    text-align: center;
+
+}
+
+/* #modal_confirm_dialog {
+    width: 70%;
+} */
+
+.pac-container {
+    z-index: 100000;
+}

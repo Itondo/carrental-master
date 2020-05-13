@@ -1,0 +1,26 @@
+#btnLocation {
+    display: block;
+    width: 100%;
+    margin: auto;
+    padding: auto;
+    font-size: 13px;
+}
+
+#locationDialog {
+    width: 800px;
+}
+
+#locationBody {
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 15px;
+}
+
+#myMap {
+    display: block;
+    width: 100%;
+    height: 430px;
+    margin: auto;
+    padding: auto;
+    margin-top: 5px;
+    border: 1px solid black;
+}
